@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.my.bookcatalog",
+      "nativeLanguage": "ko"
+    },
+    "jhipsterVersion": "6.9.1",
+    "applicationType": "microservice",
+    "baseName": "bookCatalog",
+    "packageName": "com.my.bookcatalog",
+    "packageFolder": "com/my/bookcatalog",
+    "serverPort": "8082",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MWY2ODc0MmMyN2FlMGZhODk3ZDRkOTkzMTllMzc0NjM1Y2I5MGRjNTg1MDA1MTdlOWFmMTk3ZmM3OGE1ZWI4MTg3ODc5ZDkwNjRkZjljMzc5NjcyN2FiMzIxNWZkMTg4YzcwMzRmNDc5YzRhZTNiYjM1Yjk3ZmM0NTg5MjFlMzY=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1675003550683,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "ko",
+    "languages": ["ko"],
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
